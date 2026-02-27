@@ -5,3 +5,4 @@ oxi 3
 5 isws 
 6 ksana 
 kaima sto 7 
+8 den ksana exei
