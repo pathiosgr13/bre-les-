@@ -6,3 +6,4 @@ oxi 3
 6 ksana 
 kaima sto 7 
 8 den ksana exei
+9 pali ta idia 
